@@ -1,0 +1,58 @@
+# P05. REQ : Swapping chars in string
+
+'''
+1. CRUD
+2. STATE      - Data types/structures
+3. BEHAVIOR   - DTS / Operators / DM or Loops
+'''
+'''
+1. CRUD       -->  Retrieval
+2. STATE      -->  string 
+3. BEHAVIOR   -->  int  |  =   +=    |   for   
+'''
+
+# 0. Mathematics 80%
+'''
+
+'''
+
+# 1.Builtin functions 80%
+
+print("-----1. Builtin Functions--------")
+
+
+
+# 2. Algorithm  80%
+
+print("--------2. Algorithm----------")
+
+string = 'hello world'
+string = [i for i in string]
+
+# swapping the first and last characters
+
+string[0], string[-1] = string[-1], string[0]
+
+print('after swapping : ', ''.join(string))
+
+
+# 3 Using Functions  ==> 50 programs
+print("--------3 Using Functions----------")
+
+
+# 4 OOPS              ==> 30 programs
+print("--------4 Object Oriented----------")
+
+# 5 Exception handling  ==> 15 programs
+print("--------5 Exception handling----------")
+
+# 6 File Handling  ==> 10 programs
+print("--------6 File Handling----------")
+
+# 7 Database interaction MVC  ==> 5 programs
+print("--------7 Database interaction----------")
+
+
+
+# 8 UI Interaction   ==> 3 programs
+print("--------8 UI Interaction----------")
