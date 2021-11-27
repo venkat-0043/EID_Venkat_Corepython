@@ -14,7 +14,7 @@ print('amount      : ', amount)
 print('tax amount  : ', round(tax, 2))
 print('tip amount  : ', round(tip, 2))
 print('grand total : ', grand_total)
-
+print("")
 
 # solution 2:
 # -----------
